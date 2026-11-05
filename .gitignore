@@ -1,12 +1,5 @@
-# NetBeans specific
-/build/
-/dist/
-/nbbuild/
-/nbdist/
-/nbproject/private/
-
-# Compiled class files
+build/ 
+dist/ 
+nbproject/private/
 *.class
-
-# Log files
-*.log
+*.jar
