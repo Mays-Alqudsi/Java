@@ -1,5 +1,5 @@
 
-package car;
+package personObject;
 
 public class person {
 String name;
